@@ -1,0 +1,3 @@
+Local:Oficinas:nombreBarrio:5:850000:508:true:DESCRIPCION:
+PisoOficinas:nombreBarrio:4:500000:80:60:
+Edificio:PisoOficinas:nombreBarrio:4:800000:60:nombrePropietario:5:30:
